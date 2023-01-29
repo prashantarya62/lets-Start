@@ -1,5 +1,5 @@
 public class sum{
     public static void main(String[] args){
-        System.out.println(5+11);
+        System.out.println("Sum of two number "+ (5+11));
     }
 }
